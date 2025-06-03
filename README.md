@@ -1,4 +1,8 @@
-Estudo Dirigido Engenharia de Software III - Faculdade Única Nome do aluno: CLAUDIO RICARDO GUIMARÃES FONTOURA Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas Disciplina: Engenharia de Software III Tutor/a: KARINA LUIZA SILVA TEIXEIRA
+Estudo Dirigido Engenharia de Software III - Faculdade Única 
+Nome do aluno: CLAUDIO RICARDO GUIMARÃES FONTOURA 
+Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas 
+Disciplina: Engenharia de Software III 
+Tutora: KARINA LUIZA SILVA TEIXEIRA
 
 O projeto hospedado no GitHub foi um modelo do sistema de Login: “Login do GitHub” em HTML e CSS. O trabalho foi executado conforme vídeo YouTube, canal Larissa Kich, “Como fazer o Login do GitHub em HTML, CSS (FLEXBOX)”, disponível em https://youtu.be/mpBfG3LajVA?si=rRWYCHNyQdqbUt4H. Acesso em: 2 jun. 2025.
 
@@ -8,4 +12,7 @@ As impressões sobre a plataforma são de ser uma ferramenta indispensável para
 
 Link para acesso do projeto: https://github.com/claudioguima/Estudo-Dirigido
 
-REFERÊNCIAS: https://www.youtube.com/watch?v=kB5e-gTAl_s&list=PLIAcs1sgiEzE6yFR4QW5VWvDvNPunhiS3&index=11. Acesso em 30 maio 2025. https://www.youtube.com/watch?v=UBAX-13g8OM&list=PLIAcs1sgiEzE6yFR4QW5VWvDvNPunhiS3&index=12. Acesso em 31 maio 2025. https://youtu.be/oAaSEQXpKRI?si=DMMLful-iDf5asxd. https://youtu.be/mpBfG3LajVA?si=rRWYCHNyQdqbUt4H. Acesso em 2 jun. 2025.
+REFERÊNCIAS: 
+https://www.youtube.com/watch?v=kB5e-gTAl_s&list=PLIAcs1sgiEzE6yFR4QW5VWvDvNPunhiS3&index=11. Acesso em 30 maio 2025. 
+https://www.youtube.com/watch?v=UBAX-13g8OM&list=PLIAcs1sgiEzE6yFR4QW5VWvDvNPunhiS3&index=12. Acesso em 31 maio 2025. 
+https://youtu.be/oAaSEQXpKRI?si=DMMLful-iDf5asxd. https://youtu.be/mpBfG3LajVA?si=rRWYCHNyQdqbUt4H. Acesso em 2 jun. 2025.
