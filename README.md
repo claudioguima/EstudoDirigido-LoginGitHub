@@ -10,7 +10,7 @@ As funcionalidades no Git e GitHub foram as seguintes: git init – utilizado pa
 
 As impressões sobre a plataforma são de ser uma ferramenta indispensável para todos os desenvolvedores e cresce de importância o conhecimento e domínio, pois as empresas já estão priorizando que os profissionais da área do desenvolvimento tenham esse conhecimento por ocasião das vagas e dos processos seletivos. É um sistema de versionamento, que funciona como se fosse uma agenda que guarda as versões do software que está sendo criado, histórico de atualizações e todas as modificações realizadas ao longo do desenvolvimento, podendo observar quem alterou, que dia foi alterado, quais arquivos foram modificados e o que foi modificado nesses arquivos. Resumindo, é como se fosse uma agenda que guarda todas as etapas e processos da vida do software. Como é baseada em nuvem, permite criar repositórios públicos podendo colaborar com outros desenvolvedores em projetos.
 
-Link para acesso do projeto: https://github.com/claudioguima/Estudo-Dirigido
+Link para acesso do projeto: https://github.com/claudioguima/EstudoDirigido-LoginGitHub.git
 
 REFERÊNCIAS: 
 https://www.youtube.com/watch?v=kB5e-gTAl_s&list=PLIAcs1sgiEzE6yFR4QW5VWvDvNPunhiS3&index=11. Acesso em 30 maio 2025. 
